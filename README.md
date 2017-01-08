@@ -1,0 +1,2 @@
+# ExtendscriptIDEHelper
+extendscript , ide, helper
